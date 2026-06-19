@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dmalmwatts.github.io/cnwebs-bwsport-com-2/sitemap.xml
